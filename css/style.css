@@ -25,3 +25,36 @@ header{
     margin-top: 10px;
     padding-left: 20px;
 }
+
+nav{
+    background-color: #ffffff;
+    height: 60px;
+    margin: 50px 150px 5px 150px;
+    border-radius: 5px 5px 0px 0px;
+}
+
+#first-button{
+    width: 90px;
+    height: 30px;
+    background-color: #47adf1;
+    color: #ffffff;
+    border-radius: 5px 5px 5px 5px;
+    border-color: #47adf1;
+    font-size: 15px;
+    margin: 20px 0px 5px 50px;
+    outline-color: #dce0e3;  
+}
+
+#second-button{
+    width: 100px;
+    height: 30px;
+    background-color: #ffffff;
+    color: #dce0e3;
+    border-radius: 5px 5px 5px 5px;
+    border-color: #dce0e3;
+    font-size: 15px;
+    margin: 20px 0px 5px 0px;
+    outline-color: #47adf1;  
+
+}
+
