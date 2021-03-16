@@ -33,6 +33,7 @@ nav{
     border-radius: 5px 5px 0px 0px;
 }
 
+/* Button */
 #first-button{
     width: 90px;
     height: 30px;
@@ -55,6 +56,74 @@ nav{
     font-size: 15px;
     margin: 20px 0px 5px 0px;
     outline-color: #47adf1;  
+}
+/* end Button */
 
+main{
+    background-color: #ffffff;
+    height: 1000px;
+    margin: 0px 150px 20px 150px;
+    border-radius: 0px 0px 5px 5px;
 }
 
+.section-title{
+    font-weight: bold;
+    font-size: 30px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.container{
+    padding-bottom: 10px;
+    padding-top: 20px;
+    padding-left: 50px;
+    
+}
+
+/* Check&cross */
+.yes-box{
+    padding: 2px 6px 2px 6px;
+    font-size: 15px;
+    border-style: solid;
+    color: #64c0a9;
+    border-radius: 50%;
+    border-color: #64c0a9;   
+}
+
+.no-box{
+    padding: 2px 7px 2px 7px;
+    font-size: 15px;
+    border-style: solid;
+    color: #eb4d43;
+    border-radius: 50%;
+    border-color: #eb4d43;  
+}
+
+.internal-text{
+    font-size: 22px;
+}
+
+/* Colored ovals */
+.blueoval{
+    background-color: #47adf1;
+    border-radius: 35%;
+    font-size: 15px;
+    color: #ffffff;
+    padding: 8px 10px 8px 10px;
+}
+
+.purpleoval{
+    background-color: #9c72e4;
+    border-radius: 35%;
+    font-size: 15px;
+    color: #ffffff;
+    padding: 8px 10px 8px 10px;
+}
+
+.dgreenoval{
+    background-color: #64c0a9;
+    border-radius: 35%;
+    font-size: 15px;
+    color: #ffffff;
+    padding: 8px 10px 8px 10px;
+}
