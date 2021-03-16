@@ -61,7 +61,7 @@ nav{
 
 main{
     background-color: #ffffff;
-    height: 1000px;
+    height: 820px;
     margin: 0px 150px 20px 150px;
     border-radius: 0px 0px 5px 5px;
 }
@@ -89,6 +89,7 @@ main{
     border-radius: 50%;
     border-color: #64c0a9;   
 }
+/* endCheck&cross */
 
 .no-box{
     padding: 2px 7px 2px 7px;
@@ -127,3 +128,28 @@ main{
     color: #ffffff;
     padding: 8px 10px 8px 10px;
 }
+
+.orangeoval{
+    background-color: #f29e33;
+    border-radius: 35%;
+    font-size: 15px;
+    color: #ffffff;
+    padding: 8px 10px 8px 10px;
+}
+
+.fuxiaoval{
+    background-color: #d863a1;
+    border-radius: 35%;
+    font-size: 15px;
+    color: #ffffff;
+    padding: 8px 10px 8px 10px;
+}
+
+.lgreenoval{
+    background-color: #b0c926;
+    border-radius: 35%;
+    font-size: 15px;
+    color: #ffffff;
+    padding: 8px 10px 8px 10px;
+}
+/* end Colored ovals */
