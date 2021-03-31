@@ -107,7 +107,7 @@ main{
 /* Colored ovals */
 .blueoval{
     background-color: #47adf1;
-    border-radius: 35%;
+    border-radius: 20px;
     font-size: 15px;
     color: #ffffff;
     padding: 8px 10px 8px 10px;
@@ -115,7 +115,7 @@ main{
 
 .purpleoval{
     background-color: #9c72e4;
-    border-radius: 35%;
+    border-radius: 20px;
     font-size: 15px;
     color: #ffffff;
     padding: 8px 10px 8px 10px;
@@ -123,7 +123,7 @@ main{
 
 .dgreenoval{
     background-color: #64c0a9;
-    border-radius: 35%;
+    border-radius: 20px;
     font-size: 15px;
     color: #ffffff;
     padding: 8px 10px 8px 10px;
@@ -131,7 +131,7 @@ main{
 
 .orangeoval{
     background-color: #f29e33;
-    border-radius: 35%;
+    border-radius: 20px;
     font-size: 15px;
     color: #ffffff;
     padding: 8px 10px 8px 10px;
@@ -139,7 +139,7 @@ main{
 
 .fuxiaoval{
     background-color: #d863a1;
-    border-radius: 35%;
+    border-radius: 20px;
     font-size: 15px;
     color: #ffffff;
     padding: 8px 10px 8px 10px;
@@ -147,7 +147,7 @@ main{
 
 .lgreenoval{
     background-color: #b0c926;
-    border-radius: 35%;
+    border-radius: 20px;
     font-size: 15px;
     color: #ffffff;
     padding: 8px 10px 8px 10px;
